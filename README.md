@@ -16,7 +16,7 @@ A console-based **airport & flight management system** built with object-oriente
 g++ mainAeropuerto.cpp -o aeropuerto
 ./aeropuerto
 ```
-The program reads `archAeropuertos.txt` and `archVuelos.txt` from the working directory — **sample data files are included**, so it runs out of the box.
+The program reads `archAeropuertos.txt` and `archVuelos.txt` from the working directory - **sample data files are included**, so it runs out of the box.
 
 ## Data format
 ```
@@ -25,4 +25,4 @@ archVuelos.txt        ->  FlightID Airline Origin Destination Day Month Year
 ```
 
 ## Author
-**Steffany Lara** — Data Science & Mathematics Engineering, Tecnológico de Monterrey (2023).
+**Steffany Lara** - Data Science & Mathematics Engineering, Tecnológico de Monterrey (2023).

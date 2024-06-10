@@ -1,0 +1,5 @@
+MTY Monterrey
+MEX CiudadDeMexico
+GDL Guadalajara
+CUN Cancun
+TIJ Tijuana
